@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+pillow
+python-dotenv
+pypdf
+faiss-cpu
